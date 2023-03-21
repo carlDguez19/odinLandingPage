@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Meedori Bold';
+    src: url('../fonts/meedori-sans-bold.ttf');
+}
+@font-face {
+    font-family: 'Meedori Light';
+    src: url('../fonts/meedori-sans-light.ttf');
+}
+@font-face {
+    font-family: 'Meedori';
+    src: url('../fonts/meedori-sans-regular.ttf');
+}
+
+body{
+    font-family: 'Meedori';
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.heroNav{
+    display: flex;
+    flex-direction: column;
+}
