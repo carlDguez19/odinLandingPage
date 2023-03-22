@@ -177,6 +177,10 @@ body {
   color: #fffff0;
   font-family: "Meedori Bold";
   font-size: 15px;
+  cursor: pointer;
+}
+.signUpCont .signUpBox button:active {
+  transform: scale(0.97);
 }
 
 .footer {
